@@ -21,4 +21,4 @@ This project, titled Some Washed Teams, is a school assignment showcasing the fu
 
 ## License
 
-This project is licensed under the [License.mit] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [License.mit] License - see the [LICENSE](LICENSE) file for details. LICENSE
