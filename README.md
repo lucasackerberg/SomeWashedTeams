@@ -13,10 +13,12 @@ This project, titled Some Washed Teams, is a school assignment showcasing the fu
 
 - The header.php file contains a html head section which links to a .css file.
 
--The file teamcount.php echos the total number of teams in the data.
+- The file teamcount.php echos the total number of teams in the data.
 
 - The file table.php prints out all the data into a nice html table.
 
 - There is usage of the mapbox API in the index file in which it helps to show where all the teams are located.
 
-- [License](#license)
+## License
+
+This project is licensed under the [License.mit] License - see the [LICENSE.md](LICENSE.md) file for details.
